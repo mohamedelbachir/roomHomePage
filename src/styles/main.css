@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+:root{
+    --space:50px;
+}
+@font-face {
+    font-family: leagueSpartan;
+    src: url('../fonts/LeagueSpartan-VariableFont_wght.ttf');
+    font-display: swap;
+}
+body{
+    padding: 0;
+    margin: 0;
+    position: relative;
+    font-family: leagueSpartan;
+}
+p{
+    color: darkgray;
+}
