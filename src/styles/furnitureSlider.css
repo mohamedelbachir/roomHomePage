@@ -95,7 +95,6 @@
     .btnList{
         bottom: 101.5%;
         left: 70%;
-        z-index: 2;
         width: 30%;
     }
 }
